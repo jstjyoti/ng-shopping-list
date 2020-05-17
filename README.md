@@ -1,4 +1,6 @@
-# Shopping List and Recipe Viewer
+# Cook and Shop 
+It is an Application in angular to learn concepts of angular
+## Shopping List and Recipe Viewer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
