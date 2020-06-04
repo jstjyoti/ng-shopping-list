@@ -10,6 +10,7 @@ import { RecipeService } from 'src/app/shared/services/recipe.service';
 })
 export class RecipeItemComponent implements OnInit {
   @Input() recipe: Recipe;
+  @Input() id: number;
 
   // @Output() recipeClicked = new EventEmitter<void>();
 
